@@ -2,3 +2,11 @@ This is a simple "Hello, World!" project for Python which will (eventually)
 be modified to auto-update itself when it detects a newer version of itself
 has been pushed to github. Just an excuse to learn a bit about Python,
 really, and to eventually serve as a jumping-off point for new projects.
+
+Steps to create a pull request (for beginners):
+
+1)Click on the option of Fork on the top-right side of the screen.
+2)After forking is completed, Create a new branch by searching for a branch.
+3)Commit changes in that branch.
+4)Compare and create pull request.
+5)Merge the branch with master branch and then delete the branch.
