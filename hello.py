@@ -1,1 +1,2 @@
-print "Hello, World!"
+print ("Hello, World!")
+print("Now this is python3")
